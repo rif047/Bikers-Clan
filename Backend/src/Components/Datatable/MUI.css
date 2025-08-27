@@ -1,0 +1,62 @@
+/* MUI Form */
+.css-1kfabtt-MuiFormLabel-root-MuiInputLabel-root {
+    font-size: 0.9rem !important;
+}
+
+
+.css-1jsm74t-MuiButton-startIcon {
+    margin-right: 3px !important;
+}
+
+.css-1pzfmz2-MuiInputBase-input-MuiOutlinedInput-input {
+    font-size: 14px !important;
+}
+
+
+
+
+
+
+
+
+/* MUI Datatable */
+.MuiTableContainer-root {
+    height: 570px;
+}
+
+.MuiTableRow-head {
+    background-color: #a3aab6 !important;
+}
+
+.MuiTableRow-head th {
+    font-family: 'PT Sans', sans-serif;
+    letter-spacing: 2px;
+    font-size: .8rem;
+    text-transform: uppercase;
+    border: 1px solid #F0F0F0 !important;
+}
+
+.MuiTableCell-root:last-child>div:nth-child(1) {
+    display: flex;
+    justify-content: center;
+}
+
+.MuiTableCell-root:first-child>div:nth-child(1) {
+    display: flex;
+    justify-content: center;
+}
+
+.css-1768eoe-MuiTableBody-root tr td:first-child {
+    text-align: center;
+}
+
+.MuiPaper-elevation2 {
+    --Paper-shadow: 0 !important;
+}
+
+.css-1768eoe-MuiTableBody-root tr td {
+    font-family: 'PT Sans', sans-serif;
+    color: #4F5664;
+    border: 1px solid #F0F0F0 !important;
+    padding: 5px;
+}
